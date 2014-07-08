@@ -4,7 +4,7 @@
 #https://github.com/Krijger/docker-cookbooks/blob/master/supervisor/Dockerfile
 #http://blog.trifork.com/2014/03/11/using-supervisor-with-docker-to-manage-processes-supporting-image-inheritance/
 
-FROM sauloal/ubuntu14.04
+FROM ubuntu:14.04
 
 MAINTAINER Quinten Krijger "https://github.com/Krijger"
 
